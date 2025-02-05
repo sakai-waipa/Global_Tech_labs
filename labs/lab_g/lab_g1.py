@@ -3,7 +3,7 @@ Copyright MIT and Harvey Mudd College
 MIT License
 Summer 2020
 
-Lab 4A - LIDAR Safety Stop
+Lab G1 - LIDAR Safety Stop
 """
 
 ########################################################################################

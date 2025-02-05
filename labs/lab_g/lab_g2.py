@@ -3,7 +3,7 @@ Copyright MIT and Harvey Mudd College
 MIT License
 Summer 2020
 
-Lab 4B - LIDAR Wall Following
+Lab G2 - LIDAR Wall Following
 """
 
 ########################################################################################
