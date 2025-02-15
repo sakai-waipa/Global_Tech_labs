@@ -3,7 +3,7 @@ Copyright MIT and Harvey Mudd College
 MIT License
 Summer 2020
 
-Lab 5 - AR Markers
+Lab H - AR Markers
 """
 
 ########################################################################################
