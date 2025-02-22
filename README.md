@@ -1,4 +1,4 @@
-# Global Tech Labs
+# GLOBAL TECH Labs
 
 このリポジトリでは、MITLL RACECAR-neoを利用して開発を進めるためのファイル群を管理しています。
 
